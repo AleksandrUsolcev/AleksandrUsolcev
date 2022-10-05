@@ -5,6 +5,6 @@
 
 <br>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrUsolcev&theme=github-dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
