@@ -2,7 +2,7 @@
 
 My name is Aleksandr and I'm a Python backend developer
 
-Technology stack: Python, HTML/CSS, Django, DRF, Flask, Dash, Aiogram, Postgresql, Redis, Docker, Nginx, Linux
+Technology stack: Python, HTML/CSS, Django, DRF, Flask, Dash, Aiogram, Bootstrap, Postgresql, Redis, Docker, Nginx, Linux
 
 <br>
 telegram: <a href="https://telegram.me/usolev">@usolev</a>
